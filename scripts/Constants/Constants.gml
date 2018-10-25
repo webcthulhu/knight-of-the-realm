@@ -1,0 +1,1 @@
+#macro SAVEFILE "save.sav"
